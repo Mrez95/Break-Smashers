@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ checkMouse()
+comment2.params=x\ y
+comment2.target=void\ turnTowards(int,\ int)
+comment3.params=getXCoordinate
+comment3.target=void\ getPosition(int)
+comment4.params=
+comment4.target=int\ giveAngle()
+numComments=5

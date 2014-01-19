@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=brickNum
+comment0.target=Brick(int)
+comment1.params=
+comment1.target=void\ effect()
+comment2.params=
+comment2.target=boolean\ checkHit()
+numComments=3

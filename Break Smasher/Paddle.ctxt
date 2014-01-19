@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Paddle\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=void\ act()
+comment2.params=width
+comment2.target=void\ expandImage(int)
+comment3.params=width
+comment3.target=void\ shrinkImage(int)
+comment4.params=
+comment4.target=void\ newBall()
+comment5.params=distance
+comment5.target=void\ moveMe(int)
+comment6.params=
+comment6.target=boolean\ haveBall()
+comment7.params=mouseX\ mouseY
+comment7.target=void\ releaseBall(int,\ int)
+comment8.params=
+comment8.target=void\ enlarge()
+comment9.params=
+comment9.target=void\ shrink()
+numComments=10
