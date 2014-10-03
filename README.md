@@ -3,7 +3,7 @@ Break-Smashers
 
 Breakout clone with online leaderboard. Check it out [here!] (http://bazhanga.com/breakSmasher.html)
 
-!['alt='http://bazhanga.com/breakSmasher.html'](http://bazhanga.com/breakSmasher.html)
+!['alt='http://bazhanga.com/images/portfolio/breakout/BreakSmasher4.png'](http://bazhanga.com/images/portfolio/breakout/BreakSmasher4.png)
 
 Features
 ------------
